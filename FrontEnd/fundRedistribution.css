@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: #39FF14;
+    font-size: 100;
+    text-align: center;
+}
+
+#value {
+    color: #39FF14;
+    font-size: 100;
+    text-align: center;
+}
+#connect {
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    height: 50px;
+    display: flex;
+}
+
+.metaConnect {
+    background-color: black;
+    color: #39FF14;
+}
+
+.answer {
+    color: #39FF14
+}
+
+.smartcontracttetherprompt, .answer {
+    display: inline-block
+}
+
+.everything {
+    margin-left: 300px;
+    color: #39FF14;
+}
+
+.ledger {
+    color: #39FF14;
+}
+
+.ledgerout {
+    color: #39FF14;
+}
+
+
+
